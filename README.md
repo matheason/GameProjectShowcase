@@ -1,4 +1,4 @@
-# Project [Codename] — Technical Showcase
+# Project Game — Technical Showcase
 
 ## 🛡️ Repository Access & Privacy Notice
 The main source code and proprietary assets for this indie game project are maintained in a **private repository** for intellectual property (IP) protection prior to release. This public showcase repository highlights system architecture, component design, and software engineering practices used during development.
